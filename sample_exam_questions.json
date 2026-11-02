@@ -1,0 +1,16 @@
+{
+  "questions": [
+    {
+      "question": "SQL Injection là gì?",
+      "options": ["Tấn công chèn mã SQL vào input", "Tấn công DNS", "Tấn công vật lý", "Tấn công brute force WiFi"],
+      "correctIndex": 0,
+      "points": 1
+    },
+    {
+      "question": "CSRF token dùng để làm gì?",
+      "options": ["Xác minh request hợp lệ", "Mã hóa ảnh", "Tăng tốc server", "Ẩn địa chỉ IP"],
+      "correctIndex": 0,
+      "points": 1
+    }
+  ]
+}

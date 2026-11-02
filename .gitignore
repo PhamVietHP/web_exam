@@ -1,0 +1,13 @@
+node_modules
+frontend/dist
+backend/database
+*.sqlite
+*.db
+.env
+.DS_Store
+npm-debug.log*
+
+~$*
+.env
+node_modules/
+backend/database/
